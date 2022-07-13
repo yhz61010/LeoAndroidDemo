@@ -14,6 +14,7 @@
     <mapping directory="$PROJECT_DIR$/drawOnScreen-sdk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ffmpeg-javacpp-sdk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ffmpeg-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/floatview-sdk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib-bytes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib-common-android" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib-common-kotlin" vcs="Git" />
