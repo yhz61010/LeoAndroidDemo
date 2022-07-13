@@ -14,6 +14,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../androidbase-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/61d9ecf6041467ea5ee545221ad2dcee/transformed/espresso-core-3.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b81c2516f00afe91db3f6e823e9a4b90/transformed/runner-1.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3d782ba449bae485e2e98f21d6cb7860/transformed/jetified-junit-1.1.3-api.jar</arg>

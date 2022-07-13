@@ -14,12 +14,14 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../http-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/d3b70015eab34c474d24be7d18d83da1/transformed/jetified-converter-scalars-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/195262f128b93c976308f16ce83fc473/transformed/jetified-converter-gson-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/cc34d08ab6dad4e38d3cd43746b77da4/transformed/jetified-adapter-rxjava2-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/2e848b7c9932a4dbf78eded0437e8301/transformed/jetified-retrofit-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/9dc1edf59af6c976578e7442239af8c9/transformed/jetified-okhttp-4.9.3.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/ecb3c980ca6f0b2d898598d9365bd674/transformed/jetified-rxandroid-2.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../lib-network/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../log-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/ad52983ad5ca151b9df4911a772845be/transformed/jetified-kotlin-stdlib-jdk8-1.7.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/692f2731bbbe8cf7f7514f06356ddfb6/transformed/jetified-okio-jvm-2.8.0.jar</arg>

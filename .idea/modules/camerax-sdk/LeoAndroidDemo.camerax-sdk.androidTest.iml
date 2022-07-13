@@ -31,6 +31,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../camerax-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/afabc3ca9fcfbbaefc9b047a57a65b63/transformed/navigation-ui-ktx-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/9b2abfa51c092581057ec887f780d60e/transformed/navigation-ui-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4fbe71b26c7b508877f6f654b1f90cea/transformed/material-1.6.1-api.jar</arg>
@@ -68,7 +69,9 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b0f51a77cee58b9c938f158060779e74/transformed/jetified-viewbinding-7.2.1-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../lib-common-kotlin/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../lib-image/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
+                <arg>$MODULE_DIR$/../../../lib-exif/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../log-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
+                <arg>$MODULE_DIR$/../../../pref-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/9dc1edf59af6c976578e7442239af8c9/transformed/jetified-okhttp-4.9.3.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/01610c330d1ef644bb592a2d7fca0ec3/transformed/jetified-okio-jvm-3.0.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/ad52983ad5ca151b9df4911a772845be/transformed/jetified-kotlin-stdlib-jdk8-1.7.10.jar</arg>

@@ -31,13 +31,17 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../camera2live-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../lib-common-android/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
+                <arg>$MODULE_DIR$/../../../androidbase-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4fbe71b26c7b508877f6f654b1f90cea/transformed/material-1.6.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/1ac0cc9564953c92bfee3bf9dabe60d6/transformed/constraintlayout-2.0.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/fbfa62bc40534ad651af5b3af92375c4/transformed/jetified-preference-ktx-1.2.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/476159f11f447c135efd010f9e2f438c/transformed/preference-1.2.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/6b5936bdb75a11a9b55760f8491fce1b/transformed/appcompat-1.4.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b0f51a77cee58b9c938f158060779e74/transformed/jetified-viewbinding-7.2.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../yuv-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
+                <arg>$MODULE_DIR$/../../../lib-exif/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../log-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../lib-json/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../lib-bytes/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>

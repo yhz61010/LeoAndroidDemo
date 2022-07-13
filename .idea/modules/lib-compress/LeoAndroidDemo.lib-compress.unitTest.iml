@@ -14,6 +14,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../lib-compress/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/ad52983ad5ca151b9df4911a772845be/transformed/jetified-kotlin-stdlib-jdk8-1.7.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3ab1a06e56f86f4fe55f0ecd3b62e76d/transformed/jetified-powermock-module-junit4-2.0.9.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5340c95f229c923d3c61f41ac5d91c78/transformed/jetified-powermock-module-junit4-common-2.0.9.jar</arg>
