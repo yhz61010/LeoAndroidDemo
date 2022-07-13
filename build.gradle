@@ -29,7 +29,7 @@ buildscript {
     ext.libCommonAndroidVersion = '5.5.5'
     ext.libCommonKotlinVersion = '5.5.5'
     ext.libCompressVersion = '5.5.0'
-    ext.libImageVersion = '6.0.2'
+    ext.libImageVersion = '6.0.3'
     ext.libNetworkVersion = '5.5.0'
     ext.libExifVersion = '5.5.0'
     // -----
