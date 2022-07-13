@@ -8,8 +8,6 @@ buildscript {
     ext.navVersion = '2.5.0'
     ext.sonarqube_version = '3.3'
 
-//    ext.leoVersion = '5.5.6'
-
     // ===============================
     // ===== Leo modules version =====
     // ===============================
@@ -31,7 +29,7 @@ buildscript {
     ext.libCommonAndroidVersion = '5.5.5'
     ext.libCommonKotlinVersion = '5.5.5'
     ext.libCompressVersion = '5.5.0'
-    ext.libImageVersion = '6.0.1'
+    ext.libImageVersion = '6.0.2'
     ext.libNetworkVersion = '5.5.0'
     ext.libExifVersion = '5.5.0'
     // -----
@@ -45,6 +43,12 @@ buildscript {
     ext.openglSdkVersion = '5.5.5'
     ext.yuvSdkVersion = '5.5.0'
     // ==============================
+
+    repositories {
+        mavenCentral()
+        google()
+        maven { url "https://maven.java.net/content/groups/public/" }
+    }
 
     dependencies {
         classpath "com.android.tools.build:gradle:$gradle_plugin_version"
@@ -60,18 +64,25 @@ buildscript {
 }
 
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
-plugins {
-    id 'com.android.application' version "$gradle_plugin_version" apply false
-    id 'com.android.library' version "$gradle_plugin_version" apply false
-    id 'org.jetbrains.kotlin.android' version "$kotlin_version" apply false
+//plugins {
+//    id 'com.android.application' version "$gradle_plugin_version" apply false
+//    id 'com.android.library' version "$gradle_plugin_version" apply false
+//    id 'org.jetbrains.kotlin.android' version "$kotlin_version" apply false
+//}
+
+allprojects {
+    apply plugin: 'jacoco'
+
+    repositories {
+        mavenCentral()
+        google()
+        maven { url 'https://jitpack.io' }
+        maven { url "https://plugins.gradle.org/m2/" }
+    }
 }
 
 task clean(type: Delete) {
     delete rootProject.buildDir
-}
-
-allprojects {
-    apply plugin: 'jacoco'
 }
 
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
