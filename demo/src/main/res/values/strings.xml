@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Leo Demo</string>
+
+    <string name="title_common">Common</string>
+    <string name="title_jetpack">Jetpack</string>
+    <string name="act_title_change_app_lang">Change App Language</string>
+
+    <string name="recyclerview_demo_menu_add_item">Add Item</string>
+    <string name="recyclerview_demo_menu_edit_item">Edit</string>
+    <string name="recyclerview_demo_menu_cancel">Cancel</string>
+    <string name="recyclerview_demo_change_to_grid">Grid</string>
+    <string name="recyclerview_demo_change_to_list">List</string>
+
+    <string name="accessibility_label">@string/app_name</string>
+    <string name="accessibility_desc">Simulated click on screen</string>
+
+    <string name="tv_i18n">This is English text.</string>
+    <string name="select_lang">Choose a language</string>
+    <string name="start_service">Start Service</string>
+    <string-array name="lang_list">
+        <item>English</item>
+        <item>Simplified Chinese</item>
+        <item>Traditional Chinese</item>
+        <item>Japanese</item>
+    </string-array>
+    <string-array name="lang_code_list">
+        <item>en</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>ja</item>
+    </string-array>
+</resources>

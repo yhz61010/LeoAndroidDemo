@@ -1,0 +1,44 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        maven { url "https://maven.java.net/content/groups/public/" }
+        maven { url "https://plugins.gradle.org/m2/" }
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+        maven { url "https://maven.java.net/content/groups/public/" }
+        maven { url "https://plugins.gradle.org/m2/" }
+    }
+}
+rootProject.name = "LeoAndroidDemo"
+include ':demo'
+
+include ':adpcm-ima-qt-codec-h264-hevc-decoder-sdk'
+include ':adpcm-ima-qt-codec-sdk'
+include ':androidbase-sdk'
+include ':log-sdk'
+include ':opengl-sdk'
+include ':pref-sdk'
+include ':screencapture-sdk'
+include ':yuv-sdk'
+
+include ':lib-common-android'
+include ':lib-common-kotlin'
+include ':lib-compress'
+include ':lib-bytes'
+include ':lib-exif'
+include ':lib-image'
+include ':lib-json'
+include ':lib-network'
+
+//include ':webrtc-sdk'
+//include ':x264'
+//include ':ffmpeg-sdk'

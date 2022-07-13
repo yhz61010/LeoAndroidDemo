@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".basic_components.examples.HttpActivity">
+
+    <TextView
+        android:id="@+id/txtResult"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Response"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnGet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="24dp"
+        android:onClick="onGetClick"
+        tools:ignore="UsingOnClickInXml"
+        android:text="Get"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtResult" />
+
+    <Button
+        android:id="@+id/btnPost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="Post"
+        android:onClick="onPostClick"
+        tools:ignore="UsingOnClickInXml"
+        app:layout_constraintStart_toEndOf="@+id/btnGet"
+        app:layout_constraintTop_toTopOf="@+id/btnGet" />
+
+    <Button
+        android:id="@+id/btnUpload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Upload"
+        android:onClick="onUploadClick"
+        tools:ignore="UsingOnClickInXml"
+        app:layout_constraintStart_toStartOf="@+id/btnGet"
+        app:layout_constraintTop_toBottomOf="@+id/btnGet" />
+
+    <Button
+        android:id="@+id/btnDownload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:text="Download"
+        android:onClick="onDownloadClick"
+        tools:ignore="UsingOnClickInXml"
+        app:layout_constraintStart_toEndOf="@+id/btnUpload"
+        app:layout_constraintTop_toTopOf="@+id/btnUpload" />
+</androidx.constraintlayout.widget.ConstraintLayout>

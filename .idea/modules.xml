@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LeoAndroidDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/LeoAndroidDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-h264-hevc-decoder-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-h264-hevc-decoder-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-h264-hevc-decoder-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-h264-hevc-decoder-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-h264-hevc-decoder-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-h264-hevc-decoder-sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-h264-hevc-decoder-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-h264-hevc-decoder-sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-h264-hevc-decoder-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-h264-hevc-decoder-sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-h264-hevc-decoder-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-h264-hevc-decoder-sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-h264-hevc-decoder-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-h264-hevc-decoder-sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-h264-hevc-decoder-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-h264-hevc-decoder-sdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/adpcm-ima-qt-codec-sdk/LeoAndroidDemo.adpcm-ima-qt-codec-sdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidbase-sdk/LeoAndroidDemo.androidbase-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/androidbase-sdk/LeoAndroidDemo.androidbase-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidbase-sdk/LeoAndroidDemo.androidbase-sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidbase-sdk/LeoAndroidDemo.androidbase-sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidbase-sdk/LeoAndroidDemo.androidbase-sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/androidbase-sdk/LeoAndroidDemo.androidbase-sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidbase-sdk/LeoAndroidDemo.androidbase-sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidbase-sdk/LeoAndroidDemo.androidbase-sdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/LeoAndroidDemo.demo.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/LeoAndroidDemo.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/LeoAndroidDemo.demo.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/LeoAndroidDemo.demo.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/LeoAndroidDemo.demo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/LeoAndroidDemo.demo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo/LeoAndroidDemo.demo.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/demo/LeoAndroidDemo.demo.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-bytes/LeoAndroidDemo.lib-bytes.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-bytes/LeoAndroidDemo.lib-bytes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-bytes/LeoAndroidDemo.lib-bytes.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-bytes/LeoAndroidDemo.lib-bytes.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-bytes/LeoAndroidDemo.lib-bytes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-bytes/LeoAndroidDemo.lib-bytes.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-bytes/LeoAndroidDemo.lib-bytes.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-bytes/LeoAndroidDemo.lib-bytes.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-common-android/LeoAndroidDemo.lib-common-android.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-common-android/LeoAndroidDemo.lib-common-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-common-android/LeoAndroidDemo.lib-common-android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-common-android/LeoAndroidDemo.lib-common-android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-common-android/LeoAndroidDemo.lib-common-android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-common-android/LeoAndroidDemo.lib-common-android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-common-android/LeoAndroidDemo.lib-common-android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-common-android/LeoAndroidDemo.lib-common-android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-common-kotlin/LeoAndroidDemo.lib-common-kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-common-kotlin/LeoAndroidDemo.lib-common-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-common-kotlin/LeoAndroidDemo.lib-common-kotlin.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-common-kotlin/LeoAndroidDemo.lib-common-kotlin.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-common-kotlin/LeoAndroidDemo.lib-common-kotlin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-common-kotlin/LeoAndroidDemo.lib-common-kotlin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-common-kotlin/LeoAndroidDemo.lib-common-kotlin.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-common-kotlin/LeoAndroidDemo.lib-common-kotlin.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-compress/LeoAndroidDemo.lib-compress.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-compress/LeoAndroidDemo.lib-compress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-compress/LeoAndroidDemo.lib-compress.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-compress/LeoAndroidDemo.lib-compress.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-compress/LeoAndroidDemo.lib-compress.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-compress/LeoAndroidDemo.lib-compress.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-compress/LeoAndroidDemo.lib-compress.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-compress/LeoAndroidDemo.lib-compress.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-exif/LeoAndroidDemo.lib-exif.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-exif/LeoAndroidDemo.lib-exif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-exif/LeoAndroidDemo.lib-exif.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-exif/LeoAndroidDemo.lib-exif.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-exif/LeoAndroidDemo.lib-exif.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-exif/LeoAndroidDemo.lib-exif.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-exif/LeoAndroidDemo.lib-exif.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-exif/LeoAndroidDemo.lib-exif.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-image/LeoAndroidDemo.lib-image.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-image/LeoAndroidDemo.lib-image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-image/LeoAndroidDemo.lib-image.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-image/LeoAndroidDemo.lib-image.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-image/LeoAndroidDemo.lib-image.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-image/LeoAndroidDemo.lib-image.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-image/LeoAndroidDemo.lib-image.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-image/LeoAndroidDemo.lib-image.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-json/LeoAndroidDemo.lib-json.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-json/LeoAndroidDemo.lib-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-json/LeoAndroidDemo.lib-json.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-json/LeoAndroidDemo.lib-json.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-json/LeoAndroidDemo.lib-json.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-json/LeoAndroidDemo.lib-json.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-json/LeoAndroidDemo.lib-json.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-json/LeoAndroidDemo.lib-json.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-network/LeoAndroidDemo.lib-network.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-network/LeoAndroidDemo.lib-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-network/LeoAndroidDemo.lib-network.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-network/LeoAndroidDemo.lib-network.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-network/LeoAndroidDemo.lib-network.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-network/LeoAndroidDemo.lib-network.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib-network/LeoAndroidDemo.lib-network.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/lib-network/LeoAndroidDemo.lib-network.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log-sdk/LeoAndroidDemo.log-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/log-sdk/LeoAndroidDemo.log-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log-sdk/LeoAndroidDemo.log-sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/log-sdk/LeoAndroidDemo.log-sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log-sdk/LeoAndroidDemo.log-sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/log-sdk/LeoAndroidDemo.log-sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/log-sdk/LeoAndroidDemo.log-sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/log-sdk/LeoAndroidDemo.log-sdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opengl-sdk/LeoAndroidDemo.opengl-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/opengl-sdk/LeoAndroidDemo.opengl-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opengl-sdk/LeoAndroidDemo.opengl-sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/opengl-sdk/LeoAndroidDemo.opengl-sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opengl-sdk/LeoAndroidDemo.opengl-sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/opengl-sdk/LeoAndroidDemo.opengl-sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/opengl-sdk/LeoAndroidDemo.opengl-sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/opengl-sdk/LeoAndroidDemo.opengl-sdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pref-sdk/LeoAndroidDemo.pref-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/pref-sdk/LeoAndroidDemo.pref-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pref-sdk/LeoAndroidDemo.pref-sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pref-sdk/LeoAndroidDemo.pref-sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pref-sdk/LeoAndroidDemo.pref-sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pref-sdk/LeoAndroidDemo.pref-sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pref-sdk/LeoAndroidDemo.pref-sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pref-sdk/LeoAndroidDemo.pref-sdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/screencapture-sdk/LeoAndroidDemo.screencapture-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/screencapture-sdk/LeoAndroidDemo.screencapture-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/screencapture-sdk/LeoAndroidDemo.screencapture-sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/screencapture-sdk/LeoAndroidDemo.screencapture-sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/screencapture-sdk/LeoAndroidDemo.screencapture-sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/screencapture-sdk/LeoAndroidDemo.screencapture-sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/screencapture-sdk/LeoAndroidDemo.screencapture-sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/screencapture-sdk/LeoAndroidDemo.screencapture-sdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yuv-sdk/LeoAndroidDemo.yuv-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/yuv-sdk/LeoAndroidDemo.yuv-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yuv-sdk/LeoAndroidDemo.yuv-sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/yuv-sdk/LeoAndroidDemo.yuv-sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yuv-sdk/LeoAndroidDemo.yuv-sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/yuv-sdk/LeoAndroidDemo.yuv-sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yuv-sdk/LeoAndroidDemo.yuv-sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/yuv-sdk/LeoAndroidDemo.yuv-sdk.unitTest.iml" />
+    </modules>
+  </component>
+</project>

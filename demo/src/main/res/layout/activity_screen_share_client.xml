@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_200"
+    tools:context=".basic_components.examples.sharescreen.client.ScreenShareClientActivity">
+
+    <ToggleButton
+        android:id="@+id/toggleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:textOff="Receive"
+        android:textOn="Receiving..."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <SurfaceView
+        android:id="@+id/surfaceView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/etServerIp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginEnd="32dp"
+        android:ems="10"
+        android:hint="Please input server phone ip"
+        android:inputType="textPersonName"
+        android:text="192.168.1.109"
+        android:textColor="@android:color/white"
+        app:layout_constraintBottom_toTopOf="@+id/toggleButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnClear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:onClick="onClearClick"
+        tools:ignore="UsingOnClickInXml"
+        android:text="Clear"
+        app:layout_constraintBottom_toBottomOf="@+id/toggleButton"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/btnUndo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:onClick="onUndoClick"
+        tools:ignore="UsingOnClickInXml"
+        android:text="Undo"
+        app:layout_constraintBottom_toBottomOf="@+id/toggleButton"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <com.leovp.drawonscreen.FingerPaintView
+        android:id="@+id/finger"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/onebyone"
+        app:inEditMode="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <Switch
+        android:id="@+id/switchDraw"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="Draw"
+        android:textColor="@color/teal_200"
+        app:layout_constraintBottom_toTopOf="@+id/toggleButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+    <Button
+        android:id="@+id/btnRecent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:onClick="onRecentClick"
+        tools:ignore="UsingOnClickInXml"
+        android:text="Recent"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toTopOf="@+id/etServerIp"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:onClick="onBackClick"
+        tools:ignore="UsingOnClickInXml"
+        android:text="Back"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toBottomOf="@+id/btnRecent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/btnHome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onHomeClick"
+        tools:ignore="UsingOnClickInXml"
+        android:text="HOME"
+        android:textAllCaps="false"
+        app:layout_constraintBottom_toTopOf="@+id/btnRecent"
+        app:layout_constraintStart_toStartOf="@+id/btnRecent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

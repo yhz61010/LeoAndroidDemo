@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_common">
+
+    <fragment
+        android:id="@+id/navigation_common"
+        android:name="com.leovp.demo.basic_components.BasicFragment"
+        android:label="@string/title_common"
+        tools:layout="@layout/fragment_basic" />
+
+    <fragment android:id="@+id/navigation_jetpack"
+        android:name="com.leovp.demo.jetpack_components.JetpackFragment"
+        android:label="@string/title_jetpack"
+        tools:layout="@layout/fragment_jetpack" />
+
+</navigation>

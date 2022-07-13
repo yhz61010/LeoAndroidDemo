@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/adpcm-ima-qt-codec-h264-hevc-decoder-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/adpcm-ima-qt-codec-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/androidbase-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib-bytes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib-common-android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib-common-kotlin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib-compress" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib-exif" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib-image" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib-json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib-network" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/log-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/opengl-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pref-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/screencapture-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webrtc-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/x264" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yuv-sdk" vcs="Git" />
+  </component>
+</project>
