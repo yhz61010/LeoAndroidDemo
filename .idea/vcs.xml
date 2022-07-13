@@ -6,6 +6,8 @@
     <mapping directory="$PROJECT_DIR$/adpcm-ima-qt-codec-sdk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/androidbase-sdk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/audio-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/basenetty-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/camera2live-sdk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib-bytes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib-common-android" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib-common-kotlin" vcs="Git" />
