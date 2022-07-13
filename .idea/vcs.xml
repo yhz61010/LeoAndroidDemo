@@ -16,6 +16,7 @@
     <mapping directory="$PROJECT_DIR$/ffmpeg-sdk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/floatview-sdk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/h264-hevc-decoder-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/http-sdk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib-bytes" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib-common-android" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib-common-kotlin" vcs="Git" />
