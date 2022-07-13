@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.liangjingkanji:BRV:1.3.62@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b73e0a04e281ff27874d149a3e92febd/transformed/jetified-BRV-1.3.62/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b73e0a04e281ff27874d149a3e92febd/transformed/jetified-BRV-1.3.62/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b73e0a04e281ff27874d149a3e92febd/transformed/jetified-BRV-1.3.62/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.liangjingkanji/BRV/1.3.62/4e465bd6ac86533333ea5a23f51f31f2d738ed85/BRV-1.3.62-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

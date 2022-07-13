@@ -26,6 +26,7 @@
     <mapping directory="$PROJECT_DIR$/lib-image" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib-json" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lib-network" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libjpeg-turbo-main" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/log-sdk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/opengl-sdk" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pref-sdk" vcs="Git" />

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.liangjingkanji:Net:3.4.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c41957d1f4d85e794a32561c8a2b8353/transformed/jetified-Net-3.4.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c41957d1f4d85e794a32561c8a2b8353/transformed/jetified-Net-3.4.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c41957d1f4d85e794a32561c8a2b8353/transformed/jetified-Net-3.4.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.liangjingkanji/Net/3.4.6/6af82832e1f4f37151314450bc00d6e238b1880f/Net-3.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
