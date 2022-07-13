@@ -20,10 +20,13 @@ dependencyResolutionManagement {
 }
 rootProject.name = "LeoAndroidDemo"
 include ':demo'
+include ':aidl-client'
+include ':demo-dex'
 
 include ':adpcm-ima-qt-codec-h264-hevc-decoder-sdk'
 include ':adpcm-ima-qt-codec-sdk'
 include ':androidbase-sdk'
+include ':audio-sdk'
 include ':log-sdk'
 include ':opengl-sdk'
 include ':pref-sdk'
