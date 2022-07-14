@@ -163,8 +163,6 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/ec280ffaa327fdea894dc42c19c4b2fd/transformed/jetified-annotations-4.13.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e8db54dc30a591019f57b79e4a2bbd0a/transformed/jetified-android-mail-1.6.7.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b5256fa67f72ff04c26a7a66c0eb258f/transformed/jetified-android-activation-1.6.7.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/3ae94af7c4c22eabfd8e18e14bafa2c7/transformed/jetified-mars-xlog-1.2.5-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/f4f92fe18946fe6f65e8a16e73844478/transformed/jetified-validation-api-1.1.0.Final.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/9d49b9c3e3a28ac625830d4c4c62b393/transformed/jetified-mmkv-1.2.13-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b45092807b13be27de924e4a4ad4efac/transformed/jetified-library-2.4-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/32ee66fef53127b821290365659c523b/transformed/jetified-bson4jackson-2.13.1.jar</arg>
@@ -319,7 +317,6 @@
     <orderEntry type="library" name="Gradle: com.github.bumptech.glide:annotations:4.13.2" level="project" />
     <orderEntry type="library" name="Gradle: com.sun.mail:android-mail:1.6.7" level="project" />
     <orderEntry type="library" name="Gradle: com.sun.mail:android-activation:1.6.7" level="project" />
-    <orderEntry type="library" name="Gradle: javax.validation:validation-api:1.1.0.Final" level="project" />
     <orderEntry type="library" name="Gradle: io.insert-koin:koin-core-jvm:3.2.0" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.5.0" level="project" />
     <orderEntry type="library" name="Gradle: de.undercouch:bson4jackson:2.13.1" level="project" />
@@ -406,7 +403,6 @@
     <orderEntry type="library" name="Gradle: com.github.bumptech.glide:gifdecoder:4.13.2@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.exifinterface:exifinterface:1.3.3@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.tracing:tracing:1.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.tencent.mars:mars-xlog:1.2.5@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.tencent:mmkv:1.2.13@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.afollestad.material-dialogs:input:3.3.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.afollestad.material-dialogs:core:3.3.0@aar" level="project" />
