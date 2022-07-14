@@ -77,6 +77,9 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
-/debug.keystore
+
 /.idea/copyright/profiles_settings.xml
+/.idea/modules/
+
+/debug.keystore
 /libyuv/
