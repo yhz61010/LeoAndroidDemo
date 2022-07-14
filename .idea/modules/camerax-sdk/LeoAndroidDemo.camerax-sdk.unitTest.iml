@@ -14,7 +14,6 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
-                <arg>$MODULE_DIR$/../../../camerax-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/afabc3ca9fcfbbaefc9b047a57a65b63/transformed/navigation-ui-ktx-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/9b2abfa51c092581057ec887f780d60e/transformed/navigation-ui-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/4fbe71b26c7b508877f6f654b1f90cea/transformed/material-1.6.1-api.jar</arg>
@@ -48,6 +47,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/1d142fb12f60df4b85772b264d883d26/transformed/jetified-camera-view-1.2.0-alpha03-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/708a5e4961a25555911887bd950ee3ec/transformed/jetified-camera-extensions-1.2.0-alpha03-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a3276a9ec7d1c65536ba24bd2fc04f21/transformed/jetified-camera-core-1.2.0-alpha03-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/0f49fa6efc111e223dcc8f14ba71cad3/transformed/jetified-XXPermissions-13.5-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b0f51a77cee58b9c938f158060779e74/transformed/jetified-viewbinding-7.2.1-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../lib-common-kotlin/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../lib-image/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
@@ -229,6 +229,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.camera:camera-lifecycle:1.2.0-alpha03@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.camera:camera-view:1.2.0-alpha03@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.camera:camera-extensions:1.2.0-alpha03@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.github.getActivity:XXPermissions:13.5@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:viewbinding:7.2.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: io.coil-kt:coil:2.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: io.coil-kt:coil-base:2.1.0@aar" level="project" />
