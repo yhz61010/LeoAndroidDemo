@@ -284,9 +284,15 @@
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../demo/build/generated/ap_generated_sources/developDebugUnitTest/out" />
-    <content url="file://$MODULE_DIR$/../../../demo/build/generated/source/kapt/developDebugUnitTest" />
-    <content url="file://$MODULE_DIR$/../../../demo/build/generated/source/kaptKotlin/developDebugUnitTest" />
+    <content url="file://$MODULE_DIR$/../../../demo/build/generated/ap_generated_sources/developDebugUnitTest/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../demo/build/generated/ap_generated_sources/developDebugUnitTest/out" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../demo/build/generated/source/kapt/developDebugUnitTest">
+      <sourceFolder url="file://$MODULE_DIR$/../../../demo/build/generated/source/kapt/developDebugUnitTest" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../demo/build/generated/source/kaptKotlin/developDebugUnitTest">
+      <sourceFolder url="file://$MODULE_DIR$/../../../demo/build/generated/source/kaptKotlin/developDebugUnitTest" isTestSource="true" generated="true" />
+    </content>
     <content url="file://$MODULE_DIR$/../../../demo/src/test">
       <sourceFolder url="file://$MODULE_DIR$/../../../demo/src/test/java" isTestSource="true" />
     </content>

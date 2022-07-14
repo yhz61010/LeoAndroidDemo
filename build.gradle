@@ -27,7 +27,7 @@ buildscript {
     ext.libBytesVersion = '5.5.0'
     ext.libJsonVersion = '5.5.0'
     ext.libCommonAndroidVersion = '5.5.5'
-    ext.libCommonKotlinVersion = '6.0.2'
+    ext.libCommonKotlinVersion = '6.0.3'
     ext.libCompressVersion = '5.5.0'
     ext.libImageVersion = '6.0.5'
     ext.libNetworkVersion = '5.5.0'

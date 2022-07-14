@@ -253,7 +253,9 @@
     <content url="file://$MODULE_DIR$/../../../demo/build/generated/aidl_source_output_dir/developDebugAndroidTest/out" />
     <content url="file://$MODULE_DIR$/../../../demo/build/generated/ap_generated_sources/developDebugAndroidTest/out" />
     <content url="file://$MODULE_DIR$/../../../demo/build/generated/renderscript_source_output_dir/developDebugAndroidTest/out" />
-    <content url="file://$MODULE_DIR$/../../../demo/build/generated/res/resValues/androidTest/develop/debug" />
+    <content url="file://$MODULE_DIR$/../../../demo/build/generated/res/resValues/androidTest/develop/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../demo/build/generated/res/resValues/androidTest/develop/debug" type="java-test-resource" />
+    </content>
     <content url="file://$MODULE_DIR$/../../../demo/build/generated/res/rs/androidTest/develop/debug" />
     <content url="file://$MODULE_DIR$/../../../demo/build/generated/source/buildConfig/androidTest/develop/debug" />
     <content url="file://$MODULE_DIR$/../../../demo/build/generated/source/kapt/developDebugAndroidTest" />

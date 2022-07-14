@@ -160,7 +160,9 @@
     <content url="file://$MODULE_DIR$/../../../androidbase-sdk/build/generated/aidl_source_output_dir/debugAndroidTest/out" />
     <content url="file://$MODULE_DIR$/../../../androidbase-sdk/build/generated/ap_generated_sources/debugAndroidTest/out" />
     <content url="file://$MODULE_DIR$/../../../androidbase-sdk/build/generated/renderscript_source_output_dir/debugAndroidTest/out" />
-    <content url="file://$MODULE_DIR$/../../../androidbase-sdk/build/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../androidbase-sdk/build/generated/res/resValues/androidTest/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../androidbase-sdk/build/generated/res/resValues/androidTest/debug" type="java-test-resource" />
+    </content>
     <content url="file://$MODULE_DIR$/../../../androidbase-sdk/build/generated/res/rs/androidTest/debug" />
     <content url="file://$MODULE_DIR$/../../../androidbase-sdk/build/generated/source/buildConfig/androidTest/debug" />
     <content url="file://$MODULE_DIR$/../../../androidbase-sdk/src/androidTest" />
