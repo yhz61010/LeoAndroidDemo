@@ -31,7 +31,6 @@
             <stringArg name="classpath">
               <args>
                 <arg>$MODULE_DIR$/../../../demo/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/developDebug/R.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/9979005d789b3380cb727f22fe430d58/transformed/jetified-BRV-1.3.62-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/8ef60cbef5c702dfe935c3beab0d1a1c/transformed/databinding-runtime-7.2.1-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../androidbase-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../camera2live-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
@@ -86,8 +85,8 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c327ab2dc407a2b56713d922e39bec29/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a186d569da3fc71588c4655c95fddbce/transformed/jetified-lifecycle-livedata-ktx-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/56a3b925bcd4b3c3f57c132afcc3c394/transformed/jetified-concurrent-futures-ktx-1.1.0.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/8d4dbe1ebb80436b29491ecbdcb6c8b8/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.3.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/e7da556e7f2dc2c262615f10906be1d4/transformed/jetified-kotlinx-coroutines-android-1.6.3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/1467d9b91c6d4a11a73e2e830507e57b/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.4.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/9c0594d98d7c42e7db322c2979241759/transformed/jetified-kotlinx-coroutines-android-1.6.4.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/d32e524fbd461700c30761ef68dca10a/transformed/room-rxjava2-2.5.0-alpha02-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/710aa5c6a40857b2efc9a03e648de93a/transformed/room-guava-2.5.0-alpha02-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b414629780de895253eb76a0b1899f3f/transformed/room-runtime-2.5.0-alpha02-api.jar</arg>
@@ -222,7 +221,6 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/947511d77a3c16c8dcf961a0fbfd30f6/transformed/jetified-netty-common-4.1.70.Final.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/7851f9fda49c7492dd7dc4ce5b48e01b/transformed/jetified-jzlib-1.1.3.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/980f6ee80347323d682fe63ade193005/transformed/exifinterface-1.3.3-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/0f49fa6efc111e223dcc8f14ba71cad3/transformed/jetified-XXPermissions-13.5-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/2b80f008f3bd8b4153c48d34fa829193/transformed/jetified-disklrucache-4.13.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/ec280ffaa327fdea894dc42c19c4b2fd/transformed/jetified-annotations-4.13.2.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e8db54dc30a591019f57b79e4a2bbd0a/transformed/jetified-android-mail-1.6.7.jar</arg>
@@ -230,19 +228,11 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/3ae94af7c4c22eabfd8e18e14bafa2c7/transformed/jetified-mars-xlog-1.2.5-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f4f92fe18946fe6f65e8a16e73844478/transformed/jetified-validation-api-1.1.0.Final.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/9d49b9c3e3a28ac625830d4c4c62b393/transformed/jetified-mmkv-1.2.13-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/fb3250d504ce98629369dc7e1092d470/transformed/jetified-notify-1.4.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b45092807b13be27de924e4a4ad4efac/transformed/jetified-library-2.4-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/32ee66fef53127b821290365659c523b/transformed/jetified-bson4jackson-2.13.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/019a9791e4c70c51abe58e09ddc0a929/transformed/jetified-jackson-annotations-2.13.3.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b382e3f5019a6df214de228c898e7d0a/transformed/jetified-jackson-databind-2.13.3.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c024284a6a3f95f52d983c2632f94573/transformed/jetified-jackson-core-2.13.3.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/4fa395a11a8a255104d664ebd2ed470f/transformed/jetified-FreeReflection-3.1.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/27ba62b12b9f9ee0297ff3de99601193/transformed/jetified-Net-3.4.6-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/7302cd01bce94a354fb0df6441e32aaf/transformed/jetified-StateLayout-1.2.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/48ae40e2f198e5b60f5633879eab370e/transformed/jetified-refresh-layout-kernel-2.0.5-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/17f6fa88d32976f747c7c11026ce7916/transformed/jetified-refresh-header-material-2.0.5-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/b40a3a5b850acb1403c0e109d17d6ebd/transformed/jetified-refresh-footer-classics-2.0.5-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/e5a64f75cac40da4b48ad29511c84b31/transformed/jetified-refresh-drawable-paint-2.0.5-api.jar</arg>
                 <arg>$USER_HOME$/Library/Android/sdk/platforms/android-33/android.jar</arg>
                 <arg>$USER_HOME$/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
               </args>
@@ -330,8 +320,8 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:databinding-common:7.2.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.5.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-parcelize-runtime:1.7.10" level="project" />
@@ -490,7 +480,6 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.camera:camera-lifecycle:1.2.0-alpha03@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.camera:camera-view:1.2.0-alpha03@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.camera:camera-extensions:1.2.0-alpha03@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.github.getActivity:XXPermissions:13.5@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:glide:4.13.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:gifdecoder:4.13.2@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.exifinterface:exifinterface:1.3.3@aar" level="project" />
@@ -499,18 +488,9 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.tencent:mmkv:1.2.13@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.afollestad.material-dialogs:input:3.3.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.afollestad.material-dialogs:core:3.3.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: io.karn:notify:1.4.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.daimajia.androidanimations:library:2.4@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: io.insert-koin:koin-android:3.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-extensions:2.2.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.github.tiann:FreeReflection:3.1.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.github.liangjingkanji:Net:3.4.6@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.github.liangjingkanji:BRV:1.3.62@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.github.liangjingkanji:StateLayout:1.2.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: io.github.scwang90:refresh-layout-kernel:2.0.5@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: io.github.scwang90:refresh-header-material:2.0.5@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: io.github.scwang90:refresh-footer-classics:2.0.5@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: io.github.scwang90:refresh-drawable-paint:2.0.5@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:core-ktx:1.4.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:core:1.4.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:monitor:1.4.0@aar" level="project" />

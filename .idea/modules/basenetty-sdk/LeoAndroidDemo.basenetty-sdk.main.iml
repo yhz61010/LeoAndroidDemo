@@ -16,8 +16,8 @@
               <args>
                 <arg>$MODULE_DIR$/../../../basenetty-sdk/build/intermediates/compile_r_class_jar/debug/R.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/818c3064a741edbd77641d261b99630a/transformed/jetified-netty-codec-http-4.1.70.Final.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/8d4dbe1ebb80436b29491ecbdcb6c8b8/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.3.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/e7da556e7f2dc2c262615f10906be1d4/transformed/jetified-kotlinx-coroutines-android-1.6.3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/1467d9b91c6d4a11a73e2e830507e57b/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.4.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/9c0594d98d7c42e7db322c2979241759/transformed/jetified-kotlinx-coroutines-android-1.6.4.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/7851f9fda49c7492dd7dc4ce5b48e01b/transformed/jetified-jzlib-1.1.3.jar</arg>
                 <arg>$MODULE_DIR$/../../../log-sdk/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../lib-bytes/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
@@ -122,8 +122,8 @@
     <orderEntry type="library" name="Gradle: io.netty:netty-resolver:4.1.70.Final" level="project" />
     <orderEntry type="library" name="Gradle: io.netty:netty-codec:4.1.70.Final" level="project" />
     <orderEntry type="library" name="Gradle: io.netty:netty-handler:4.1.70.Final" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.3" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.10" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.10" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10" level="project" />

@@ -48,7 +48,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b04bfc6dac406cc7d6e5b79281ed64cc/transformed/navigation-common-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/e5df168dbb9a140b14024e9622df54f8/transformed/jetified-lifecycle-runtime-ktx-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/56a3b925bcd4b3c3f57c132afcc3c394/transformed/jetified-concurrent-futures-ktx-1.1.0.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/8d4dbe1ebb80436b29491ecbdcb6c8b8/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/1467d9b91c6d4a11a73e2e830507e57b/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.4.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/1eff3243fad32a32661bdddaa6f73677/transformed/jetified-coil-2.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/1b61266df35363570c48e8fbcdc251bb/transformed/jetified-coil-video-2.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/dc6b458094673e56472c4369d9230e7e/transformed/jetified-coil-base-2.1.0-api.jar</arg>
@@ -57,7 +57,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/d66e734f73bcab1933bf3601cc8f17c8/transformed/jetified-activity-1.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/c327ab2dc407a2b56713d922e39bec29/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/698203acbb6c37fa644db8f6bc3c303a/transformed/jetified-lifecycle-viewmodel-ktx-2.5.0-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/e7da556e7f2dc2c262615f10906be1d4/transformed/jetified-kotlinx-coroutines-android-1.6.3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/9c0594d98d7c42e7db322c2979241759/transformed/jetified-kotlinx-coroutines-android-1.6.4.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/9c3f99914fc3eb4bdb61346ae284636e/transformed/constraintlayout-2.1.4-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5675e01f020a4fc62fb9a9302d4bb38f/transformed/jetified-camera-camera2-1.2.0-alpha03-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/0836272be865e2ff9c9698daced97ae6/transformed/jetified-camera-video-1.2.0-alpha03-api.jar</arg>
@@ -65,7 +65,6 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/1d142fb12f60df4b85772b264d883d26/transformed/jetified-camera-view-1.2.0-alpha03-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/708a5e4961a25555911887bd950ee3ec/transformed/jetified-camera-extensions-1.2.0-alpha03-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a3276a9ec7d1c65536ba24bd2fc04f21/transformed/jetified-camera-core-1.2.0-alpha03-api.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/0f49fa6efc111e223dcc8f14ba71cad3/transformed/jetified-XXPermissions-13.5-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/b0f51a77cee58b9c938f158060779e74/transformed/jetified-viewbinding-7.2.1-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../lib-common-kotlin/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$MODULE_DIR$/../../../lib-image/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
@@ -171,8 +170,8 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.5.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.2.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.concurrent:concurrent-futures-ktx:1.1.0" level="project" />
@@ -237,7 +236,6 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.camera:camera-lifecycle:1.2.0-alpha03@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.camera:camera-view:1.2.0-alpha03@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.camera:camera-extensions:1.2.0-alpha03@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.github.getActivity:XXPermissions:13.5@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:viewbinding:7.2.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: io.coil-kt:coil:2.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: io.coil-kt:coil-base:2.1.0@aar" level="project" />
